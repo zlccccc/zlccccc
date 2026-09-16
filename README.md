@@ -19,9 +19,9 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 ## Multimodal
 
-| DeCLIP | Huawei Campus N-in-One Vision Model | Huawei FTTR-NAS Semantic Search |
+| DeCLIP | Huawei Machine Vision N-in-One Model | Huawei FTTR-NAS Semantic Search |
 | --- | --- | --- |
-| [![DeCLIP framework](https://raw.githubusercontent.com/Sense-GVT/DeCLIP/main/docs/main_figure.jpg)](https://github.com/Sense-GVT/DeCLIP) | [![园区 N 合一视觉大模型](assets/campus-vision-model.svg)](https://mp.weixin.qq.com/s/vSR_kvJDO61ZGdzVi4cHtw) | [![FTTR-NAS semantic image search](assets/fttr-nas-public-coverage.png)](https://jdc.huawei.com/jdc/refactor/viewthread?tid=1138557) |
+| [![DeCLIP framework](https://raw.githubusercontent.com/Sense-GVT/DeCLIP/main/docs/main_figure.jpg)](https://github.com/Sense-GVT/DeCLIP) | [![机器视觉 N 合一大模型](assets/machine-vision-n-in-one.svg)](https://mp.weixin.qq.com/s/vSR_kvJDO61ZGdzVi4cHtw) | [![FTTR-NAS semantic image search](assets/fttr-nas-public-coverage.png)](https://jdc.huawei.com/jdc/refactor/viewthread?tid=1138557) |
 
 ## Algorithms & competitions
 

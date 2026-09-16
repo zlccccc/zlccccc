@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
-  <title id="title">园区 N 合一视觉大模型</title>
-  <desc id="desc">Public coverage card for a unified campus vision model.</desc>
+  <title id="title">机器视觉 N 合一大模型</title>
+  <desc id="desc">Public coverage card for a unified machine vision model.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071c33"/>
@@ -26,12 +26,12 @@
     <circle cx="1360" cy="520" r="8"/><circle cx="920" cy="590" r="6"/>
   </g>
   <text x="96" y="116" fill="#9edce5" font-family="Arial, 'Noto Sans SC', sans-serif" font-size="28" font-weight="700" letter-spacing="5">PUBLIC COVERAGE</text>
-  <text x="96" y="310" fill="#ffffff" font-family="Arial, 'Noto Sans SC', sans-serif" font-size="78" font-weight="700">园区 N 合一</text>
+  <text x="96" y="310" fill="#ffffff" font-family="Arial, 'Noto Sans SC', sans-serif" font-size="78" font-weight="700">机器视觉 N 合一</text>
   <text x="96" y="410" fill="#ffffff" font-family="Arial, 'Noto Sans SC', sans-serif" font-size="78" font-weight="700">视觉大模型</text>
-  <text x="100" y="492" fill="#b8d9e7" font-family="Arial, sans-serif" font-size="34">Unified Campus Vision Model</text>
+  <text x="100" y="492" fill="#b8d9e7" font-family="Arial, sans-serif" font-size="34">Unified Machine Vision Model</text>
   <g font-family="Arial, 'Noto Sans SC', sans-serif" font-size="28" fill="#d9f7f8">
     <rect x="96" y="610" width="184" height="64" rx="32" fill="#ffffff" fill-opacity="0.10" stroke="#8ce5ed" stroke-opacity="0.5"/>
-    <text x="132" y="652">园区视觉</text>
+    <text x="132" y="652">机器视觉</text>
     <rect x="304" y="610" width="220" height="64" rx="32" fill="#ffffff" fill-opacity="0.10" stroke="#8ce5ed" stroke-opacity="0.5"/>
     <text x="340" y="652">多任务统一</text>
     <rect x="548" y="610" width="184" height="64" rx="32" fill="#ffffff" fill-opacity="0.10" stroke="#8ce5ed" stroke-opacity="0.5"/>
