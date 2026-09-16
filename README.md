@@ -11,7 +11,7 @@ Building **Physical Agent Infra** for agents that work in the real world.
 | --- | --- |
 | [![Lagrange robots operating at a real industrial site](assets/lagrange-field.jpg)](https://lagrangex.com) | [![AI 智家宝](assets/ai-zhijiabao.jpg)](https://www.bilibili.com/video/BV1zonnz4EEn/) |
 | HomeAssistant LLM Analysis | Agentic AI Workflow Simulator |
-| [![Natural-language smart-home lighting control](https://raw.githubusercontent.com/zlccccc/HomeAssistant-LLM-Analysis/main/images/openlight.png)](https://github.com/zlccccc/HomeAssistant-LLM-Analysis) | [![Agent workflow architecture](https://raw.githubusercontent.com/zlccccc/Agentic-AI-Workflow-Simulator/main/archived/architecture_diagram.png)](https://github.com/zlccccc/Agentic-AI-Workflow-Simulator) |
+| [![Natural-language smart-home lighting control](https://raw.githubusercontent.com/zlccccc/HomeAssistant-LLM-Analysis/main/images/openlight.png)](https://github.com/zlccccc/HomeAssistant-LLM-Analysis) | [![Agent workflow architecture rendered from Mermaid](assets/agentic-workflow.svg)](https://github.com/zlccccc/Agentic-AI-Workflow-Simulator) |
 
 ## 3D
 
@@ -29,6 +29,7 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 ## Algorithms & competitions
 
-| VectorSearch RNN-Descent | ACM-ICPC / CCPC Templates |
+| Repository | Link |
 | --- | --- |
-| [![VectorSearch RNN-Descent](https://opengraph.githubassets.com/1/zlccccc/VectorSearch-RNNDescent)](https://github.com/zlccccc/VectorSearch-RNNDescent) | [![ACM-ICPC and CCPC templates](https://opengraph.githubassets.com/1/zlccccc/ACM-Templates-by-zlc1114)](https://github.com/zlccccc/ACM-Templates-by-zlc1114) |
+| VectorSearch RNN-Descent | [GitHub repository](https://github.com/zlccccc/VectorSearch-RNNDescent) |
+| ACM-ICPC / CCPC Templates | [GitHub repository](https://github.com/zlccccc/ACM-Templates-by-zlc1114) |
