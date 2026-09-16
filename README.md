@@ -25,6 +25,6 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 ## Algorithms & competitions
 
-| VectorSearch RNN-Descent | Huawei Hackathon · Cluster Scheduling | Codeforces Grandmaster · ACM-ICPC / CCPC Templates |
+| Huawei Algorithm Competition · VectorSearch RNN-Descent | Huawei Hackathon · Cluster Scheduling | Codeforces Grandmaster · ACM-ICPC / CCPC Templates |
 | --- | --- | --- |
 | [![2024 Huawei Algorithm Competition runner-up](assets/huawei-algorithm-competition-2024.jpg)](https://github.com/zlccccc/VectorSearch-RNNDescent) | [![Huawei Hackathon](assets/huawei-hackathon.jpg)](assets/huawei-hackathon.jpg) | [![Codeforces profile for zlc1114](assets/codeforces-zlc1114.png)](https://github.com/zlccccc/ACM-Templates-by-zlc1114) |
