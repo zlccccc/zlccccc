@@ -11,12 +11,12 @@ Building **Physical Agent Infra** for agents that work in the real world.
   <tr>
     <td width="33.33%" align="center"><strong>Physical Agent Infra</strong><br><sub>Lagrange · 2026–Present</sub></td>
     <td width="33.33%" align="center"><strong>AI 智家宝 · Smart Home IoT Agent</strong><br><sub>Huawei · 2025–2026</sub></td>
-    <td width="33.33%" align="center"><strong>HomeAssistant LLM Analysis</strong><br><sub>Personal · 2025</sub></td>
+    <td width="33.33%" align="center"><strong>Home Assistant Agent Prototype</strong><br><sub>Personal · 2025</sub></td>
   </tr>
   <tr>
     <td width="33.33%"><a href="https://lagrangex.com"><img src="assets/lagrange-field.jpg" alt="Lagrange robots operating at a real industrial site" width="100%"></a></td>
     <td width="33.33%"><a href="https://www.bilibili.com/video/BV1zonnz4EEn/"><img src="assets/ai-zhijiabao.jpg" alt="AI 智家宝" width="100%"></a></td>
-    <td width="33.33%"><a href="https://github.com/zlccccc/HomeAssistant-LLM-Analysis"><img src="assets/homeassistant-llm-analysis.png" alt="Natural-language smart-home lighting control" width="100%"></a></td>
+    <td width="33.33%"><a href="https://github.com/zlccccc/HomeAssistant-LLM-Analysis"><img src="assets/homeassistant-llm-analysis.png" alt="Home Assistant Agent Prototype" width="100%"></a></td>
   </tr>
 </table>
 
@@ -24,8 +24,8 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center"><strong>DeCLIP · VL Pre-training</strong><br><sub>SenseTime · 2021–2022</sub></td>
-    <td width="25%" align="center"><strong>INTERN · General Vision System</strong><br><sub>SenseTime · 2021</sub></td>
+    <td width="25%" align="center"><strong>DeCLIP · VL Pretraining</strong><br><sub>SenseTime · 2021–2022</sub></td>
+    <td width="25%" align="center"><strong>INTERN · General Vision</strong><br><sub>SenseTime · 2021</sub></td>
     <td width="25%" align="center"><strong>HoloSens N-in-One Model</strong><br><sub>Huawei · 2023–2024</sub></td>
     <td width="25%" align="center"><strong>FTTR-NAS Semantic Search</strong><br><sub>Huawei · 2024–2025</sub></td>
   </tr>
@@ -37,7 +37,7 @@ Building **Physical Agent Infra** for agents that work in the real world.
   </tr>
 </table>
 
-## 3D
+## 3D Scene Understanding
 
 <table width="100%">
   <tr>
