@@ -13,9 +13,9 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 ## Multimodal
 
-| SenseTime INTERN General Vision · DeCLIP | Huawei Machine Vision N-in-One Model | Huawei FTTR-NAS Semantic Search |
-| --- | --- | --- |
-| [![DeCLIP framework](https://raw.githubusercontent.com/Sense-GVT/DeCLIP/main/docs/main_figure.jpg)](https://github.com/Sense-GVT/DeCLIP) | [![机器视觉 N 合一大模型](assets/machine-vision-n-in-one.svg)](https://mp.weixin.qq.com/s/vSR_kvJDO61ZGdzVi4cHtw) | [![FTTR-NAS semantic image search](assets/fttr-nas-public-coverage.png)](https://jdc.huawei.com/jdc/refactor/viewthread?tid=1138557) |
+| DeCLIP · Vision-Language Pre-training | SenseTime INTERN · General Vision System | Huawei Machine Vision N-in-One Model | Huawei FTTR-NAS Semantic Search |
+| --- | --- | --- | --- |
+| [![DeCLIP framework](https://raw.githubusercontent.com/Sense-GVT/DeCLIP/main/docs/main_figure.jpg)](https://github.com/Sense-GVT/DeCLIP) | [![INTERN general vision system](https://raw.githubusercontent.com/OpenGVLab/opengvlab.github.io/main/assets/images/intern-overview.png)](https://www.sensetime.com/cn/news/41164398) | [![机器视觉 N 合一大模型](assets/machine-vision-n-in-one.svg)](https://mp.weixin.qq.com/s/vSR_kvJDO61ZGdzVi4cHtw) | [![FTTR-NAS semantic image search](assets/fttr-nas-public-coverage.png)](https://jdc.huawei.com/jdc/refactor/viewthread?tid=1138557) |
 
 ## 3D
 
