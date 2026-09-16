@@ -29,7 +29,6 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 ## Algorithms & competitions
 
-| Repository | Link |
+| VectorSearch RNN-Descent | ACM-ICPC / CCPC Templates |
 | --- | --- |
-| VectorSearch RNN-Descent | [GitHub repository](https://github.com/zlccccc/VectorSearch-RNNDescent) |
-| ACM-ICPC / CCPC Templates | [GitHub repository](https://github.com/zlccccc/ACM-Templates-by-zlc1114) |
+| [![2024 Huawei Algorithm Competition runner-up](assets/huawei-algorithm-competition-2024.jpg)](https://github.com/zlccccc/VectorSearch-RNNDescent) | [GitHub repository](https://github.com/zlccccc/ACM-Templates-by-zlc1114) |
