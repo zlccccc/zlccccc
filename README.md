@@ -7,7 +7,7 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 ## Agent
 
-| Lagrange · Physical Agent Infra | AI 智家宝 · Smart Home IoT Agent |
+| Lagrange · Physical Agent Infra | Huawei AI 智家宝 · Smart Home IoT Agent |
 | --- | --- |
 | [![Lagrange robots operating at a real industrial site](assets/lagrange-field.jpg)](https://lagrangex.com) | [![AI 智家宝](assets/ai-zhijiabao.jpg)](https://www.bilibili.com/video/BV1zonnz4EEn/) |
 | HomeAssistant LLM Analysis | Agentic AI Workflow Simulator |
