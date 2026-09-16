@@ -7,9 +7,9 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 ## Agent
 
-| Lagrange · Physical Agent Infra | Huawei AI 智家宝 · Smart Home IoT Agent | HomeAssistant LLM Analysis | Agentic AI Workflow Simulator |
-| --- | --- | --- | --- |
-| [![Lagrange robots operating at a real industrial site](assets/lagrange-field.jpg)](https://lagrangex.com) | [![AI 智家宝](assets/ai-zhijiabao.jpg)](https://www.bilibili.com/video/BV1zonnz4EEn/) | [![Natural-language smart-home lighting control](https://raw.githubusercontent.com/zlccccc/HomeAssistant-LLM-Analysis/main/images/openlight.png)](https://github.com/zlccccc/HomeAssistant-LLM-Analysis) | [![Agent workflow architecture rendered from Mermaid](assets/agentic-workflow.svg)](https://github.com/zlccccc/Agentic-AI-Workflow-Simulator) |
+| Lagrange · Physical Agent Infra | Huawei AI 智家宝 · Smart Home IoT Agent | HomeAssistant LLM Analysis |
+| --- | --- | --- |
+| [![Lagrange robots operating at a real industrial site](assets/lagrange-field.jpg)](https://lagrangex.com) | [![AI 智家宝](assets/ai-zhijiabao.jpg)](https://www.bilibili.com/video/BV1zonnz4EEn/) | [![Natural-language smart-home lighting control](https://raw.githubusercontent.com/zlccccc/HomeAssistant-LLM-Analysis/main/images/openlight.png)](https://github.com/zlccccc/HomeAssistant-LLM-Analysis) |
 
 ## 3D
 
