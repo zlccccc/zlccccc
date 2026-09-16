@@ -7,19 +7,15 @@ Building **Physical Agent Infra** for agents that work in the real world.
 
 ## Agent
 
-| Lagrange · Physical Agent Infra | Huawei AI 智家宝 · Smart Home IoT Agent |
-| --- | --- |
-| [![Lagrange robots operating at a real industrial site](assets/lagrange-field.jpg)](https://lagrangex.com) | [![AI 智家宝](assets/ai-zhijiabao.jpg)](https://www.bilibili.com/video/BV1zonnz4EEn/) |
-| HomeAssistant LLM Analysis | Agentic AI Workflow Simulator |
-| [![Natural-language smart-home lighting control](https://raw.githubusercontent.com/zlccccc/HomeAssistant-LLM-Analysis/main/images/openlight.png)](https://github.com/zlccccc/HomeAssistant-LLM-Analysis) | [![Agent workflow architecture rendered from Mermaid](assets/agentic-workflow.svg)](https://github.com/zlccccc/Agentic-AI-Workflow-Simulator) |
+| Lagrange · Physical Agent Infra | Huawei AI 智家宝 · Smart Home IoT Agent | HomeAssistant LLM Analysis | Agentic AI Workflow Simulator |
+| --- | --- | --- | --- |
+| [![Lagrange robots operating at a real industrial site](assets/lagrange-field.jpg)](https://lagrangex.com) | [![AI 智家宝](assets/ai-zhijiabao.jpg)](https://www.bilibili.com/video/BV1zonnz4EEn/) | [![Natural-language smart-home lighting control](https://raw.githubusercontent.com/zlccccc/HomeAssistant-LLM-Analysis/main/images/openlight.png)](https://github.com/zlccccc/HomeAssistant-LLM-Analysis) | [![Agent workflow architecture rendered from Mermaid](assets/agentic-workflow.svg)](https://github.com/zlccccc/Agentic-AI-Workflow-Simulator) |
 
 ## 3D
 
-| 3DVG-Transformer | 3DJCG / 3DVL Codebase |
-| --- | --- |
-| [![3DVG-Transformer qualitative results](https://raw.githubusercontent.com/zlccccc/3DVG-Transformer/main/demo/Visualization.png)](https://github.com/zlccccc/3DVG-Transformer) | [![3DJCG framework](https://raw.githubusercontent.com/zlccccc/3DVL_Codebase/main/demo/3djcg-framework.png)](https://github.com/zlccccc/3DVL_Codebase) |
-| Transformer3D-Det | FE-3DGQA · 3D Visual Question Answering |
-| [![Transformer3D-Det vote refinement](https://raw.githubusercontent.com/zlccccc/Transformer3D-Det/master/pictures/image-20220405161332490.png)](https://github.com/zlccccc/Transformer3D-Det) | [![FE-3DGQA visual question answering results](https://raw.githubusercontent.com/zlccccc/3DVL_Codebase/main/demo/fe-3dgqa-visualization.png)](https://arxiv.org/abs/2209.12028) |
+| 3DVG-Transformer | 3DJCG / 3DVL Codebase | Transformer3D-Det | FE-3DGQA · 3D Visual Question Answering |
+| --- | --- | --- | --- |
+| [![3DVG-Transformer qualitative results](https://raw.githubusercontent.com/zlccccc/3DVG-Transformer/main/demo/Visualization.png)](https://github.com/zlccccc/3DVG-Transformer) | [![3DJCG framework](https://raw.githubusercontent.com/zlccccc/3DVL_Codebase/main/demo/3djcg-framework.png)](https://github.com/zlccccc/3DVL_Codebase) | [![Transformer3D-Det vote refinement](https://raw.githubusercontent.com/zlccccc/Transformer3D-Det/master/pictures/image-20220405161332490.png)](https://github.com/zlccccc/Transformer3D-Det) | [![FE-3DGQA visual question answering results](https://raw.githubusercontent.com/zlccccc/3DVL_Codebase/main/demo/fe-3dgqa-visualization.png)](https://arxiv.org/abs/2209.12028) |
 
 ## Multimodal
 
