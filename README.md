@@ -1,6 +1,6 @@
 # Lichen Zhao · 赵立晨
 
-**Co-founder & CTO at [Lagrange](https://lagrangex.com)**<br>
+**Co-founder & CTO at [Lagrange](https://www.lagrangex.com)**<br>
 Building **Physical Agent Infra** for agents that work in the real world.
 
 > 从真实场景闭环出发，构建 Agentic OS，走向 Physical RSI。
@@ -14,7 +14,7 @@ Building **Physical Agent Infra** for agents that work in the real world.
     <td width="33.33%" align="center"><strong>Home Assistant Agent Prototype</strong><br><sub>Personal · 2025</sub></td>
   </tr>
   <tr>
-    <td width="33.33%"><a href="https://lagrangex.com"><img src="assets/lagrange-field.jpg" alt="Lagrange robots operating at a real industrial site" width="100%"></a></td>
+    <td width="33.33%"><a href="https://www.lagrangex.com"><img src="assets/lagrange-field.jpg" alt="Lagrange robots operating at a real industrial site" width="100%"></a></td>
     <td width="33.33%"><a href="https://www.bilibili.com/video/BV1zonnz4EEn/"><img src="assets/ai-zhijiabao.jpg" alt="AI 智家宝" width="100%"></a></td>
     <td width="33.33%"><a href="https://github.com/zlccccc/HomeAssistant-LLM-Analysis"><img src="assets/homeassistant-llm-analysis.png" alt="Home Assistant Agent Prototype" width="100%"></a></td>
   </tr>
